@@ -1,0 +1,9 @@
+[project]
+name = "gpt-data-tools"
+version = "0.1.0"
+description = "Data download and processing tools for GPT training"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+download-wikipedia = "download_wikipedia:main"
