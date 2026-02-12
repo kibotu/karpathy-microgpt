@@ -110,4 +110,4 @@ Karpathy also published the entire algorithm as a single beautifully typeset pag
 
 ## License
 
-The original `gpt.py` is by [Andrej Karpathy](https://x.com/karpathy). The `train.sh` wrapper and this README are provided as-is.
+The original `gpt.py` is by [Andrej Karpathy](https://x.com/karpathy/status/2021694437152157847). The `train.sh` wrapper and this README are provided as-is.
